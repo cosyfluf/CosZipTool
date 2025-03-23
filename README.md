@@ -17,15 +17,10 @@ Stellen Sie sicher, dass Python 3.x und Tkinter installiert sind.
 
 Installieren Sie die erforderlichen Abhängigkeiten, falls notwendig:
 
-bash
-Kopieren
-Bearbeiten
+
 pip install -r requirements.txt
 Führen Sie das Programm mit folgendem Befehl aus:
 
-bash
-Kopieren
-Bearbeiten
 python cosziptool.py
 Nutzung
 Starten Sie das Tool.

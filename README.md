@@ -32,5 +32,8 @@ Passen Sie die Verschlüsselungseinstellungen an (falls erforderlich).
 Klicken Sie auf "Komprimieren", um Ihre .cos-Datei zu erstellen.
 
 Lizenz
-All Rights Reserved.
-CosZipTool ist ein proprietäres Softwareprodukt und darf nicht ohne ausdrückliche Genehmigung von den Entwicklern weitergegeben, verkauft oder modifiziert werden.
+MIT-Lizenz
+CosZipTool Erlaubt fast alles, solange ein Hinweis auf den Urheber bleibt. Sehr permissiv.
+
+Urheber 
+Cosyfluf
